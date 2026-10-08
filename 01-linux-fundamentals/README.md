@@ -6,9 +6,9 @@
 
 | Section | Items | Done |
 |---------|-------|------|
-| File System | 5 | 0/5 ⏳ |
-| File Operations | 6 | 0/6 ⏳ |
-| Permissions | 5 | 0/5 ⏳ |
+| File System | 5 | 5/5 ⏳ |
+| File Operations | 6 | 6/6 ⏳ |
+| Permissions | 5 | 2/5 ⏳ |
 | Process Management | 5 | 0/5 ⏳ |
 | Package Management | 4 | 0/4 ⏳ |
 | Networking Commands | 5 | 0/5 ⏳ |
@@ -22,11 +22,11 @@
 ## 📚 Level 2 & Level 3 Breakdown
 
 ### 01.01 File System
-- [ ] 01.01.01 Directory structure (`/etc`, `/var`, `/home`, `/tmp`)
-- [ ] 01.01.02 Absolute vs relative paths
-- [ ] 01.01.03 `pwd`, `cd`, `ls`
-- [ ] 01.01.04 Symlinks (`ln -s`)
-- [ ] 01.01.05 Mount points (`/mnt`, `/media`)
+- [x] 01.01.01 Directory structure (`/etc`, `/var`, `/home`, `/tmp`)
+- [x] 01.01.02 Absolute vs relative paths
+- [x] 01.01.03 `pwd`, `cd`, `ls`
+- [x] 01.01.04 Symlinks (`ln -s`)
+- [x] 01.01.05 Mount points (`/mnt`, `/media`)
 
 ### 01.02 File Operations
 - [x] 01.02.01 Create (`touch`, `mkdir`)
@@ -37,8 +37,8 @@
 - [x] 01.02.06 Find (`find`, `locate`)
 
 ### 01.03 Permissions
-- [ ] 01.03.01 Permission types (`r`, `w`, `x`)
-- [ ] 01.03.02 `chmod` (symbolic & numeric)
+- [x] 01.03.01 Permission types (`r`, `w`, `x`)
+- [x] 01.03.02 `chmod` (symbolic & numeric)
 - [ ] 01.03.03 `chown` (ownership)
 - [ ] 01.03.04 `chgrp` (groups)
 - [ ] 01.03.05 Special permissions (SUID, SGID, sticky bit)
