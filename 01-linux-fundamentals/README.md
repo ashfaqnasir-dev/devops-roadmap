@@ -29,12 +29,12 @@
 - [ ] 01.01.05 Mount points (`/mnt`, `/media`)
 
 ### 01.02 File Operations
-- [ ] 01.02.01 Create (`touch`, `mkdir`)
-- [ ] 01.02.02 Copy (`cp`)
-- [ ] 01.02.03 Move/Rename (`mv`)
-- [ ] 01.02.04 Delete (`rm`, `rmdir`)
-- [ ] 01.02.05 View (`cat`, `less`, `head`, `tail`)
-- [ ] 01.02.06 Find (`find`, `locate`)
+- [x] 01.02.01 Create (`touch`, `mkdir`)
+- [x] 01.02.02 Copy (`cp`)
+- [x] 01.02.03 Move/Rename (`mv`)
+- [x] 01.02.04 Delete (`rm`, `rmdir`)
+- [x] 01.02.05 View (`cat`, `less`, `head`, `tail`)
+- [x] 01.02.06 Find (`find`, `locate`)
 
 ### 01.03 Permissions
 - [ ] 01.03.01 Permission types (`r`, `w`, `x`)
