@@ -6,7 +6,7 @@
 
 | Section | Items | Done |
 |---------|-------|------|
-| Docker Basics | 5 | 0/5 ⏳ |
+| Docker Basics | 5 | 3/5 ⏳ |
 | Dockerfile | 6 | 0/6 ⏳ |
 | Images | 5 | 0/5 ⏳ |
 | Containers | 5 | 0/5 ⏳ |
@@ -21,9 +21,9 @@
 ## 📚 Level 2 & Level 3 Breakdown
 
 ### 08.01 Docker Basics
-- [ ] 08.01.01 What is Docker?
-- [ ] 08.01.02 Containers vs VMs
-- [ ] 08.01.03 Install Docker
+- [x] 08.01.01 What is Docker?
+- [x] 08.01.02 Containers vs VMs
+- [x] 08.01.03 Install Docker
 - [ ] 08.01.04 Docker CLI
 - [ ] 08.01.05 Docker Hub
 

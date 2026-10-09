@@ -6,7 +6,7 @@
 
 | Section | Items | Done |
 |---------|-------|------|
-| Terraform Basics | 5 | 0/5 ⏳ |
+| Terraform Basics | 5 | 2/5 ⏳ |
 | HCL Syntax | 5 | 0/5 ⏳ |
 | Providers | 4 | 0/4 ⏳ |
 | Resources | 5 | 0/5 ⏳ |
@@ -21,8 +21,8 @@
 ## 📚 Level 2 & Level 3 Breakdown
 
 ### 10.01 Terraform Basics
-- [ ] 10.01.01 What is IaC?
-- [ ] 10.01.02 Install Terraform
+- [x] 10.01.01 What is IaC?
+- [x] 10.01.02 Install Terraform
 - [ ] 10.01.03 `terraform init`
 - [ ] 10.01.04 `terraform plan`
 - [ ] 10.01.05 `terraform apply`
