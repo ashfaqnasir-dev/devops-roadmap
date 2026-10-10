@@ -6,8 +6,8 @@
 
 | Section | Items | Done |
 |---------|-------|------|
-| Git Basics | 6 | 0/6 ⏳ |
-| Branching | 5 | 0/5 ⏳ |
+| Git Basics | 6 | 6/6 ⏳ |
+| Branching | 5 | 2/5 ⏳ |
 | Merging & Rebasing | 5 | 0/5 ⏳ |
 | Remote Repos | 5 | 0/5 ⏳ |
 | Pull Requests | 4 | 0/4 ⏳ |
@@ -20,16 +20,16 @@
 ## 📚 Level 2 & Level 3 Breakdown
 
 ### 02.01 Git Basics
-- [ ] 02.01.01 `git init`, `git clone`
-- [ ] 02.01.02 `git add`, `git commit`
-- [ ] 02.01.03 `git status`, `git log`
-- [ ] 02.01.04 `git diff`
-- [ ] 02.01.05 `.gitignore`
-- [ ] 02.01.06 `git config`
+- [x] 02.01.01 `git init`, `git clone`
+- [x] 02.01.02 `git add`, `git commit`
+- [x] 02.01.03 `git status`, `git log`
+- [x] 02.01.04 `git diff`
+- [x] 02.01.05 `.gitignore`
+- [x] 02.01.06 `git config`
 
 ### 02.02 Branching
-- [ ] 02.02.01 `git branch`
-- [ ] 02.02.02 `git checkout` / `git switch`
+- [x] 02.02.01 `git branch`
+- [x] 02.02.02 `git checkout` / `git switch`
 - [ ] 02.02.03 Create & delete branches
 - [ ] 02.02.04 Rename branches
 - [ ] 02.02.05 List branches (local & remote)
