@@ -7,7 +7,7 @@
 | Section | Items | Done |
 |---------|-------|------|
 | Terraform Basics | 5 | 5/5 ⏳ |
-| HCL Syntax | 5 | 0/5 ⏳ |
+| HCL Syntax | 5 | 5/5 ⏳ |
 | Providers | 4 | 0/4 ⏳ |
 | Resources | 5 | 0/5 ⏳ |
 | State Management | 5 | 0/5 ⏳ |
@@ -28,11 +28,11 @@
 - [x] 10.01.05 `terraform apply`
 
 ### 10.02 HCL Syntax
-- [ ] 10.02.01 Blocks
-- [ ] 10.02.02 Variables
-- [ ] 10.02.03 Outputs
-- [ ] 10.02.04 Data sources
-- [ ] 10.02.05 Expressions
+- [x] 10.02.01 Blocks
+- [x] 10.02.02 Variables
+- [x] 10.02.03 Outputs
+- [x] 10.02.04 Data sources
+- [x] 10.02.05 Expressions
 
 ### 10.03 Providers
 - [ ] 10.03.01 AWS provider
