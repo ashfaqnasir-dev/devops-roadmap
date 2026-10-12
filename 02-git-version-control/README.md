@@ -30,9 +30,9 @@
 ### 02.02 Branching
 - [x] 02.02.01 `git branch`
 - [x] 02.02.02 `git checkout` / `git switch`
-- [ ] 02.02.03 Create & delete branches
-- [ ] 02.02.04 Rename branches
-- [ ] 02.02.05 List branches (local & remote)
+- [x] 02.02.03 Create & delete branches
+- [x] 02.02.04 Rename branches
+- [x] 02.02.05 List branches (local & remote)
 
 ### 02.03 Merging & Rebasing
 - [ ] 02.03.01 `git merge`
