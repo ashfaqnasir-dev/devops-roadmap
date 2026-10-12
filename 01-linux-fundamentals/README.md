@@ -8,8 +8,8 @@
 |---------|-------|------|
 | File System | 5 | 5/5 ⏳ |
 | File Operations | 6 | 6/6 ⏳ |
-| Permissions | 5 | 2/5 ⏳ |
-| Process Management | 5 | 0/5 ⏳ |
+| Permissions | 5 |3/5 ⏳ |
+| Process Management | 5 | 2/5 ⏳ |
 | Package Management | 4 | 0/4 ⏳ |
 | Networking Commands | 5 | 0/5 ⏳ |
 | SSH & Remote | 4 | 0/4 ⏳ |
@@ -39,13 +39,13 @@
 ### 01.03 Permissions
 - [x] 01.03.01 Permission types (`r`, `w`, `x`)
 - [x] 01.03.02 `chmod` (symbolic & numeric)
-- [ ] 01.03.03 `chown` (ownership)
-- [ ] 01.03.04 `chgrp` (groups)
+- [x] 01.03.03 `chown` (ownership)
+- [x] 01.03.04 `chgrp` (groups)
 - [ ] 01.03.05 Special permissions (SUID, SGID, sticky bit)
 
 ### 01.04 Process Management
-- [ ] 01.04.01 View processes (`ps`, `top`, `htop`)
-- [ ] 01.04.02 Kill processes (`kill`, `killall`, `pkill`)
+- [x] 01.04.01 View processes (`ps`, `top`, `htop`)
+- [x] 01.04.02 Kill processes (`kill`, `killall`, `pkill`)
 - [ ] 01.04.03 Background jobs (`&`, `bg`, `fg`, `jobs`)
 - [ ] 01.04.04 `nohup` and `screen`/`tmux`
 - [ ] 01.04.05 Process priorities (`nice`, `renice`)
