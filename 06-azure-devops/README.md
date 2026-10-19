@@ -20,21 +20,21 @@
 ## 📚 Level 2 & Level 3 Breakdown
 
 ### 06.01 Azure Boards
-- [ ] 06.01.01 Work items (Epic, Feature, Story, Task, Bug)
-- [ ] 06.01.02 Backlogs
-- [ ] 06.01.03 Sprints
-- [ ] 06.01.04 Kanban boards
-- [ ] 06.01.05 Queries & dashboards
+- [x] 06.01.01 Work items (Epic, Feature, Story, Task, Bug)
+- [x] 06.01.02 Backlogs
+- [x] 06.01.03 Sprints
+- [x] 06.01.04 Kanban boards
+- [x] 06.01.05 Queries & dashboards
 
 ### 06.02 Azure Repos
-- [ ] 06.02.01 Git repos in Azure DevOps
-- [ ] 06.02.02 Branch policies
-- [ ] 06.02.03 Pull requests
-- [ ] 06.02.04 Code review
-- [ ] 06.02.05 Forking
+- [x] 06.02.01 Git repos in Azure DevOps
+- [x] 06.02.02 Branch policies
+- [x] 06.02.03 Pull requests
+- [x] 06.02.04 Code review
+- [x] 06.02.05 Forking
 
 ### 06.03 Azure Pipelines
-- [ ] 06.03.01 YAML vs Classic
+- [x] 06.03.01 YAML vs Classic
 - [ ] 06.03.02 Build pipelines
 - [ ] 06.03.03 Release pipelines
 - [ ] 06.03.04 Agents & pools

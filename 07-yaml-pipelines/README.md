@@ -6,7 +6,7 @@
 
 | Section | Items | Done |
 |---------|-------|------|
-| YAML Syntax | 5 | 0/5 ⏳ |
+| YAML Syntax | 5 |5/5 ⏳ |
 | Pipeline Structure | 6 | 0/6 ⏳ |
 | Triggers | 5 | 0/5 ⏳ |
 | Variables & Secrets | 5 | 0/5 ⏳ |
@@ -21,19 +21,19 @@
 ## 📚 Level 2 & Level 3 Breakdown
 
 ### 07.01 YAML Syntax
-- [ ] 07.01.01 Indentation
-- [ ] 07.01.02 Key-value pairs
-- [ ] 07.01.03 Lists
-- [ ] 07.01.04 Multi-line strings
-- [ ] 07.01.05 Comments
+- [x] 07.01.01 Indentation
+- [x] 07.01.02 Key-value pairs
+- [x] 07.01.03 Lists
+- [x] 07.01.04 Multi-line strings
+- [x] 07.01.05 Comments
 
 ### 07.02 Pipeline Structure
-- [ ] 07.02.01 `trigger`
-- [ ] 07.02.02 `pool`
-- [ ] 07.02.03 `stages`
-- [ ] 07.02.04 `jobs`
-- [ ] 07.02.05 `steps`
-- [ ] 07.02.06 `variables`
+- [x] 07.02.01 `trigger`
+- [x] 07.02.02 `pool`
+- [x] 07.02.03 `stages`
+- [x] 07.02.04 `jobs`
+- [x] 07.02.05 `steps`
+- [x] 07.02.06 `variables`
 
 ### 07.03 Triggers
 - [ ] 07.03.01 Branch triggers

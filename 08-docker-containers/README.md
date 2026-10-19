@@ -6,7 +6,7 @@
 
 | Section | Items | Done |
 |---------|-------|------|
-| Docker Basics | 5 | 3/5 ⏳ |
+| Docker Basics | 5 | 5/5 ⏳ |
 | Dockerfile | 6 | 0/6 ⏳ |
 | Images | 5 | 0/5 ⏳ |
 | Containers | 5 | 0/5 ⏳ |
@@ -24,23 +24,23 @@
 - [x] 08.01.01 What is Docker?
 - [x] 08.01.02 Containers vs VMs
 - [x] 08.01.03 Install Docker
-- [ ] 08.01.04 Docker CLI
-- [ ] 08.01.05 Docker Hub
+- [x] 08.01.04 Docker CLI
+- [x] 08.01.05 Docker Hub
 
 ### 08.02 Dockerfile
-- [ ] 08.02.01 `FROM`
-- [ ] 08.02.02 `RUN`, `CMD`, `ENTRYPOINT`
-- [ ] 08.02.03 `COPY`, `ADD`
-- [ ] 08.02.04 `WORKDIR`, `EXPOSE`
-- [ ] 08.02.05 `ENV`, `ARG`
-- [ ] 08.02.06 Multi-stage builds
+- [x] 08.02.01 `FROM`
+- [x] 08.02.02 `RUN`, `CMD`, `ENTRYPOINT`
+- [x] 08.02.03 `COPY`, `ADD`
+- [x] 08.02.04 `WORKDIR`, `EXPOSE`
+- [x] 08.02.05 `ENV`, `ARG`
+- [x] 08.02.06 Multi-stage builds
 
 ### 08.03 Images
-- [ ] 08.03.01 Pull images
-- [ ] 08.03.02 Build images
-- [ ] 08.03.03 Tag images
-- [ ] 08.03.04 Push to registry
-- [ ] 08.03.05 Image layers
+- [x] 08.03.01 Pull images
+- [x] 08.03.02 Build images
+- [x] 08.03.03 Tag images
+- [x] 08.03.04 Push to registry
+- [x] 08.03.05 Image layers
 
 ### 08.04 Containers
 - [ ] 08.04.01 Run containers
