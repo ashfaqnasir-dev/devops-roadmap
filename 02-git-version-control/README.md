@@ -7,10 +7,10 @@
 | Section | Items | Done |
 |---------|-------|------|
 | Git Basics | 6 | 6/6 ⏳ |
-| Branching | 5 | 2/5 ⏳ |
+| Branching | 5 | 5/5 ⏳ |
 | Merging & Rebasing | 5 | 0/5 ⏳ |
-| Remote Repos | 5 | 0/5 ⏳ |
-| Pull Requests | 4 | 0/4 ⏳ |
+| Remote Repos | 5 | 5/5 ⏳ |
+| Pull Requests | 4 | 4/4 ⏳ |
 | Advanced Git | 5 | 0/5 ⏳ |
 
 **Overall: 0/30 (0%)**
@@ -42,17 +42,17 @@
 - [ ] 02.03.05 Cherry-pick
 
 ### 02.04 Remote Repos
-- [ ] 02.04.01 `git remote`
-- [ ] 02.04.02 `git push`, `git pull`
-- [ ] 02.04.03 `git fetch`
-- [ ] 02.04.04 Upstream vs origin
-- [ ] 02.04.05 Fork workflow
+- [x] 02.04.01 `git remote`
+- [x] 02.04.02 `git push`, `git pull`
+- [x] 02.04.03 `git fetch`
+- [x] 02.04.04 Upstream vs origin
+- [x] 02.04.05 Fork workflow
 
 ### 02.05 Pull Requests
-- [ ] 02.05.01 Create PR
-- [ ] 02.05.02 Review PR
-- [ ] 02.05.03 Merge strategies (merge, squash, rebase)
-- [ ] 02.05.04 Branch protection
+- [x] 02.05.01 Create PR
+- [x] 02.05.02 Review PR
+- [x] 02.05.03 Merge strategies (merge, squash, rebase)
+- [x] 02.05.04 Branch protection
 
 ### 02.06 Advanced Git
 - [ ] 02.06.01 `git stash`
