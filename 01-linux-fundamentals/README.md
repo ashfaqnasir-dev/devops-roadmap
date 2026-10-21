@@ -57,11 +57,11 @@
 - [ ] 01.05.04 Install from source
 
 ### 01.06 Networking Commands
-- [ ] 01.06.01 `ping`, `curl`, `wget`
-- [ ] 01.06.02 `netstat`, `ss`
-- [ ] 01.06.03 `ifconfig`, `ip`
-- [ ] 01.06.04 `dig`, `nslookup`
-- [ ] 01.06.05 `traceroute`, `tcpdump`
+- [x] 01.06.01 `ping`, `curl`, `wget`
+- [x] 01.06.02 `netstat`, `ss`
+- [x] 01.06.03 `ifconfig`, `ip`
+- [x] 01.06.04 `dig`, `nslookup`
+- [x] 01.06.05 `traceroute`, `tcpdump`
 
 ### 01.07 SSH & Remote
 - [ ] 01.07.01 `ssh` basics
@@ -70,11 +70,11 @@
 - [ ] 01.07.04 `rsync` (sync)
 
 ### 01.08 System Monitoring
-- [ ] 01.08.01 Disk usage (`df`, `du`)
-- [ ] 01.08.02 Memory usage (`free`, `vmstat`)
-- [ ] 01.08.03 CPU usage (`top`, `mpstat`)
-- [ ] 01.08.04 Logs (`/var/log`, `journalctl`)
-- [ ] 01.08.05 System info (`uname`, `uptime`)
+- [x] 01.08.01 Disk usage (`df`, `du`)
+- [x] 01.08.02 Memory usage (`free`, `vmstat`)
+- [x] 01.08.03 CPU usage (`top`, `mpstat`)
+- [x] 01.08.04 Logs (`/var/log`, `journalctl`)
+- [x] 01.08.05 System info (`uname`, `uptime`)
 
 ---
 
