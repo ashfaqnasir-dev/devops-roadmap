@@ -11,9 +11,9 @@
 | Permissions | 5 |3/5 ⏳ |
 | Process Management | 5 | 2/5 ⏳ |
 | Package Management | 4 | 0/4 ⏳ |
-| Networking Commands | 5 | 0/5 ⏳ |
+| Networking Commands | 5 | 5/5 ⏳ |
 | SSH & Remote | 4 | 0/4 ⏳ |
-| System Monitoring | 5 | 0/5 ⏳ |
+| System Monitoring | 5 | 5/5 ⏳ |
 
 **Overall: 0/39 (0%)**
 
