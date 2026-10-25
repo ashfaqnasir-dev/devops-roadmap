@@ -1,0 +1,10 @@
+2026-10-07 10:00:01 INFO  User login successful
+2026-10-07 10:00:15 ERROR Database connection failed
+2026-10-07 10:00:20 INFO  User logout
+2026-10-07 10:01:05 ERROR Timeout while calling API
+2026-10-07 10:01:30 WARN  Memory usage high
+2026-10-07 10:02:00 INFO  User signup successful
+2026-10-07 10:02:45 ERROR Invalid credentials
+2026-10-07 10:03:00 INFO  User login successful
+2026-10-07 10:03:20 WARN  Disk space low
+2026-10-07 10:04:00 ERROR Service unavailable

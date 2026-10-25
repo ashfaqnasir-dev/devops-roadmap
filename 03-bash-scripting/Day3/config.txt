@@ -1,0 +1,11 @@
+# Application Configuration
+port=8080
+host=localhost
+database=myapp_db
+
+# Server Settings
+port_backup=8080
+timeout=30
+
+# Debug Settings
+debug=false

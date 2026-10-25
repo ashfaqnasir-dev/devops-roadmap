@@ -1,0 +1,4 @@
+# Application Configuration
+port=8080
+host=localhost
+database=myapp_db
