@@ -2,41 +2,67 @@
 
 > Variable ek "dabba" (container) hai jismein hum koi value (text ya number) save karte hain taake baad mein use kar sakein.
 
+---
+
 ## 1. String Variables (Text)
+
 Text ya alfaz ko store karne ke liye. Agar value mein space ho toh hamesha double quotes (`" "`) use karein.
 
-    NAME="Ashfaq Nasir"
-    CITY="Islamabad"
-    echo "Mera naam $NAME hai aur main $CITY se hoon."
-
-## 2. Integer Variables (Numbers)
-Bash mein alag se number type nahi hota, lekin aap numbers store kar sakte hain aur un par calculation (`$(( ))`) kar sakte hain.
-
-    AGE=25
-    NEXT_AGE=$((AGE + 1))
-    echo "Agle saal meri age $NEXT_AGE ho jayegi."
-
-## 3. Read-only Variables (Constants)
-Agar aap chahte hain ke koi variable script ke beech mein change na ho, toh usay `readonly` bana dein. Agar koi change karne ki koshish karega toh error aayega.
-
-    readonly PI=3.14
-    PI=3.15  # Yeh error dega: PI: readonly variable
-
-## 4. Environment Variables (System Variables)
-Yeh woh variables hote hain jo Linux system pehle se rakhta hai. Yeh aam tor par UPPERCASE mein hote hain.
-
-    echo "Aap ka username: $USER"
-    echo "Aap ka home directory: $HOME"
-    echo "Aap ka current path: $PWD"
-
-## 5. Command Substitution (Output Save Karna)
-Agar aap kisi command ka result kisi variable mein save karna chahte hain, toh `$(command)` use karein.
-
-    TODAY=$(date)
-    HOSTNAME=$(hostname)
-
-    echo "Aaj ki tareekh: $TODAY"
-    echo "Aap ka computer: $HOSTNAME"
+```bash
+NAME="Ashfaq Nasir"
+CITY="Islamabad"
+echo "Mera naam $NAME hai aur main $CITY se hoon."
+```
 
 ---
+
+## 2. Integer Variables (Numbers)
+
+Bash mein alag se number type nahi hota, lekin aap numbers store kar sakte hain aur un par calculation (`$(( ))`) kar sakte hain.
+
+```bash
+AGE=25
+NEXT_AGE=$((AGE + 1))
+echo "Agle saal meri age $NEXT_AGE ho jayegi."
+```
+
+---
+
+## 3. Read-only Variables (Constants)
+
+Agar aap chahte hain ke koi variable script ke beech mein change na ho, toh usay `readonly` bana dein. Agar koi change karne ki koshish karega toh error aayega.
+
+```bash
+readonly PI=3.14
+PI=3.15  # Yeh error dega: PI: readonly variable
+```
+
+---
+
+## 4. Environment Variables (System Variables)
+
+Yeh woh variables hote hain jo Linux system pehle se rakhta hai. Yeh aam tor par **UPPERCASE** mein hote hain.
+
+```bash
+echo "Aap ka username: $USER"
+echo "Aap ka home directory: $HOME"
+echo "Aap ka current path: $PWD"
+```
+
+---
+
+## 5. Command Substitution (Output Save Karna)
+
+Agar aap kisi command ka result kisi variable mein save karna chahte hain, toh `$(command)` use karein.
+
+```bash
+TODAY=$(date)
+HOSTNAME=$(hostname)
+
+echo "Aaj ki tareekh: $TODAY"
+echo "Aap ka computer: $HOSTNAME"
+```
+
+---
+
 **Status:** ✅ Complete
